@@ -1,2 +1,2 @@
 # my-notes
-My notes regarding JS coarse
+My notes regarding JS course
